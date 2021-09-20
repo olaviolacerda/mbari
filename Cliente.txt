@@ -1,6 +1,6 @@
 #Cadastrar um novo cliente
 {
-  "nome": "Nome do Aluno A",
+  "nome": "Olavio Lacerda Bueno Junior",
   "cpf": "999",
   "dataNascimento": "2020-07-18T15:07:36.054Z",
   "endereco": {

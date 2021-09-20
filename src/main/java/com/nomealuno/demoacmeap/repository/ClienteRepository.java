@@ -1,10 +1,10 @@
-package com.nomealuno.demoacmeap.repository;
+package com.olaviolacerdabuenojunior.demoacmeap.repository;
 
 import java.util.Optional;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
-import com.nomealuno.demoacmeap.domain.Cliente;
+import com.olaviolacerdabuenojunior.demoacmeap.domain.Cliente;
 
 public interface ClienteRepository extends JpaRepository<Cliente, Long> {
 
